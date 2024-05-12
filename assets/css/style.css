@@ -526,6 +526,7 @@ main {
   border-radius: 14px;
   box-shadow: var(--shadow-2);
   z-index: 1;
+  cursor: pointer
 }
 
 .service-item::before {
